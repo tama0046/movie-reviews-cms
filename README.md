@@ -19,7 +19,7 @@
 Role            Name              Student Number    GitHub
 Team Leader     Manoj Tamang      tama0046          @tama0046
 Member 2        Saskar baniya     bani0029          @bani0029
-Member 3        Roland            park0625          @park0625
+Member 3        Roland Parker     041163804         @park0625
 
 ## Technologies Used
 
