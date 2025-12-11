@@ -68,3 +68,7 @@ GET  /api/movie-reviews?populate=* - Get reviews with images
 ---
 
 **Companion Repository:** https://github.com/tama0046/movie-reviews-frontend.git
+
+## Getting Started
+
+Clone this repository and push to the top of the working branch to get started with development.
