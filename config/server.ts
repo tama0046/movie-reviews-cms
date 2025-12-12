@@ -7,4 +7,11 @@ export default ({ env }) => ({
   webhooks: {
     populateRelations: env.bool('WEBHOOKS_POPULATE_RELATIONS', false),
   },
+  settings: {
+    cors: {
+      enabled: true,
+      headers: '*',
+      origin: ['http://localhost:1337', 'http://localhost:3000', 'https://tama0046.github.io']
+    },
+  },
 });
